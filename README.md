@@ -1,5 +1,15 @@
-# Healthcare_Chatbot
-![chatbot](https://github.com/tiwari20122003/Healthcare_Chatbot/assets/103639295/fc37f29a-f0f1-454f-a88b-ef6c6dd65f34)
+# Health-Care-Chatbot
 
-This chatbot is designed to swiftly address frequently asked questions (FAQs) by employing a structured approach using rule-based keyword logic. By utilizing "if/then" statements, it navigates customers through a menu of options to assist in resolving their queries effectively. Accessible round the clock via preferred communication channels, it adeptly manages multiple inquiries simultaneously, ensuring prompt and efficient customer support.
-![chatbot1](https://github.com/tiwari20122003/Healthcare_Chatbot/assets/103639295/59035d71-5b0e-4f2c-a717-69c9406d67e2)
+<img src="https://www.scnsoft.com/blog-pictures/healthcare/how-chatbots-and-ai-are-changing-the-healthcare-industry_1.png">
+
+    This chatbot will provide quick answers to FAQs by setting up rule-based keyword chatbots 
+    with ¨if/then¨ logic. This chatbot will use a series of well-defined rules  to guide 
+    customers through a series of menu options that can help answer their questions. 
+    It will be there for customers 24/7 on their preferred channels, and simultaneously 
+    handle more queries at once. 
+
+
+
+<img src="https://miro.medium.com/max/875/1*69vLXZCjrJwdXytj0CTSiQ.jpeg">
+
+PS: Please do not forget to drop a star if you like it!
